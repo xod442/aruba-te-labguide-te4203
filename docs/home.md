@@ -5,6 +5,8 @@
 
 <h1>HPE Aruba Networking Deep Dive Automation with AFC & Python</h1>
 
+<h2>Technical Enablement Hands-On Lab Guide</h2>
+
 # Lab Overview
 The HPE Aruba Networking Fabric Composer provides an easy to use graphical user interface. If you would rather use the Rest API's, then this session is just what you need. In this workshop you will deploy a spine/leaf data center network, with python code you are going to write. Data Centers need to operate with minimal human interfaction. They should be highly automated. Upon completion of this workshop you will know to interact with AFC's APIs. 
 
